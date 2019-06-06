@@ -1,1 +1,1 @@
-feat1 some text
+feature1 some text
