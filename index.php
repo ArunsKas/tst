@@ -1,5 +1,5 @@
 <?php
   print 'test';
   if (false) {
-  print 'false';
-}
+    print 'false';
+  }
